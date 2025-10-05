@@ -11,7 +11,7 @@ The pipeline leverages modern data tools to simulate how **streaming data can be
 ![Architecture Diagram](./realtime_stock.drawio.png)
 
 ```
-Finhub API (Data Source) → Kafka → MinIO (Bronze) → Airflow DAG → Snowflake (Bronze Table) → dbt (Silver/Gold Models)
+Finhub API (Data Source) → Kafka → MinIO → Airflow DAG → Snowflake (Bronze) → dbt (Silver/Gold Models)
 ```
 
 All core components (Kafka, MinIO, Airflow, and dbt) were deployed and orchestrated using **Docker containerization**, ensuring reproducibility, isolated environments, and easy scalability.
