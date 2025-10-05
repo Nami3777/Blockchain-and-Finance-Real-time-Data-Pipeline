@@ -111,5 +111,4 @@ All core components (Kafka, MinIO, Airflow, and dbt) were deployed and orchestra
 ---
 
 ## 📧 Contact
-
-For questions or collaboration opportunities, feel free to reach out!
+namyun.kim@ue-germany.de
