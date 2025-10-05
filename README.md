@@ -31,12 +31,11 @@ All core components (Kafka, MinIO, Airflow, and dbt) were deployed and orchestra
 
 ## 📂 Project Structure  
 
-├── dags/            # Airflow DAGs for ingestion
-├── dbt/             # dbt models for transformations
-├── infra/           # Infrastructure config (Docker, MinIO, Airflow)
-├── venv/            # Local Python virtual environment (for testing/debugging)
-└── Requirement.text        # Requirements for Project 
-
+├── dags/ # Airflow DAGs for ingestion
+├── dbt/ # dbt models for transformations
+├── infra/ # Infrastructure config (Docker, MinIO, Airflow)
+├── venv/ # Local Python virtual environment (for testing/debugging)
+└── requirements.txt # Requirements for project
 
 ---
 
