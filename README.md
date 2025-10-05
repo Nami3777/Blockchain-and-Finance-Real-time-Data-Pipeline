@@ -1,6 +1,6 @@
 # 📊 Real-Time Stock Tracking Pipeline
 
-This project demonstrates an **end-to-end data engineering pipeline** for real-time stock tracking, especially blockchain and finance related corporations (Coinbase Global Inc., Marathon Digital Holdings Inc., MicroStrategy Inc. and BlackRock Inc.).
+This project demonstrates an **end-to-end data engineering pipeline** for real-time stock tracking, especially **blockchain and finance related corporations (Coinbase Global Inc., Marathon Digital Holdings Inc., MicroStrategy Inc. and BlackRock Inc.)**.
 
 The pipeline leverages modern data tools to simulate how **streaming data can be ingested, orchestrated, transformed, and stored** for analytics and downstream use cases.
 
